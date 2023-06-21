@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheNorthernLights
+- 👋 Hi, I’m @TheNorthernLights, CompTIA PenTest+ certified Cyber Security enthusiast
 - 👀 I’m interested in Cyber-Security and Ethical Hacking
 - 🌱 I’m currently learning Ethical Hacking, Penetration Testing and Vulnerability Assessment and preparing for OSCP
 - 💞️ I’m looking to collaborate on PenTesting Tools and preparing for OSCP together
